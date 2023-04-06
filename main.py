@@ -22,5 +22,5 @@ def callChatGpt(prompt) :
 
 
 if __name__=="__main__":
-    callChatGpt("how to learn chatgpt")
+    callChatGpt("what is python")
 
